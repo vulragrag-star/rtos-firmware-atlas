@@ -1,0 +1,4 @@
+{"id": "fence_esp_idf", "reason": "ESP-IDF primary \u2192 mcu-firmware-atlas"}
+{"id": "fence_firmadyne", "reason": "firmadyne/FirmAE \u2192 iot-firmware-atlas"}
+{"id": "fence_edk2", "reason": "edk2 \u2192 uefi-firmware-atlas"}
+{"id": "fence_syzkaller", "reason": "syzkaller \u2192 linux-kernel-atlas"}
