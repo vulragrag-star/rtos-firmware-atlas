@@ -20,3 +20,6 @@
 
 - [index_uncertain](index_uncertain.md)
 
+## Literature maps
+
+- [surveys](surveys.md)
