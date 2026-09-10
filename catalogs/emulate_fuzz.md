@@ -1,6 +1,6 @@
 # emulate_fuzz
 
-_14 entries_
+_16 entries_
 
 - **[wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime)** ★6086 — WAMR WebAssembly Micro Runtime.  
   tags: `lab-usable, reference-impl`  
@@ -57,3 +57,11 @@ _14 entries_
 - **[zephyr-fatfs-aflplusplus-benchmarks](https://github.com/Thread-t/zephyr-fatfs-aflplusplus-benchmarks)** ★1 — AFL++ harnesses/benchmarks for Zephyr FatFs.  
   tags: `dataset, paper-repro`  
   smoke: AFL++.
+
+- **[HOEDUR (index)](https://github.com/search?q=HOEDUR+fuzz+firmware)** ★? — HOEDUR multi-stream firmware/RTOS fuzzer (index; canonical GH path noisy).  
+  tags: `paper-repro`  
+  smoke: INDEX ONLY — verify upstream URL before install notes.
+
+- **[RTCON (index)](https://doi.org/10.14722/ndss.2026.241600)** ★? — NDSS 2026 context-adaptive RTOS kernel function-level fuzzer (index stub).  
+  tags: `paper-repro`  
+  smoke: INDEX ONLY — public code UNCERTAIN at discovery.
