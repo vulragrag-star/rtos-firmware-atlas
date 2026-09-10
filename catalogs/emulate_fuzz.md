@@ -23,7 +23,7 @@ _14 entries_
   smoke: Simulation.
 
 - **[FreeRTOS-Emulator](https://github.com/alxhoff/FreeRTOS-Emulator)** ★68 — POSIX FreeRTOS emulator with SDL2.  
-  tags: `lab-usable, lab-teaching`  
+  tags: `lab-usable`  
   smoke: Linux build.
 
 - **[nuttx-arm64-emulator](https://github.com/lupyuen/nuttx-arm64-emulator)** ★41 — NuttX Arm64 via Unicorn emulator.  
