@@ -1,6 +1,6 @@
 # emulate_fuzz
 
-_16 entries_
+_18 entries_
 
 - **[wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime)** ★6086 — WAMR WebAssembly Micro Runtime.  
   tags: `lab-usable, reference-impl`  
@@ -18,9 +18,17 @@ _16 entries_
   tags: `lab-usable, paper-repro`  
   smoke: Zephyr module.
 
+- **[SFuzz](https://github.com/NSSL-SJTU/SFuzz)** ★93 — SFuzz — slice-based RTOS fuzzing (CCS 2022).  
+  tags: `paper-repro, lab-usable`  
+  smoke: Research; ARM/MIPS samples.
+
 - **[whitefield](https://github.com/whitefield-framework/whitefield)** ★85 — Wireless sensor network simulation (RIOT-friendly).  
   tags: `lab-usable, paper-repro`  
   smoke: Simulation.
+
+- **[hoedur](https://github.com/fuzzware-fuzzer/hoedur)** ★73 — HOEDUR — multi-stream firmware fuzzer (Fuzzware lineage).  
+  tags: `paper-repro, lab-usable`  
+  smoke: Research fuzzing.
 
 - **[FreeRTOS-Emulator](https://github.com/alxhoff/FreeRTOS-Emulator)** ★68 — POSIX FreeRTOS emulator with SDL2.  
   tags: `lab-usable`  
@@ -37,6 +45,10 @@ _16 entries_
 - **[RTCON](https://github.com/kaist-hacking/RTCON)** ★8 — RTCon context-adaptive RTOS function-level fuzzer (NDSS 2026).  
   tags: `paper-repro, lab-usable`  
   smoke: Docker images large; follow paper eval configs.
+
+- **[pemu](https://github.com/MPI-SysSec/pemu)** ★8 — PEMU — protocol-aware rehosting integrating Fuzzware/Hoedur/SEmu.  
+  tags: `paper-repro`  
+  smoke: Research; low stars.
 
 - **[FTZ](https://github.com/riesentoaster/FTZ)** ★7 — State-inferring structure-aware fuzzer for Zephyr TCP/IP.  
   tags: `paper-repro`  
@@ -57,10 +69,6 @@ _16 entries_
 - **[zephyr-fatfs-aflplusplus-benchmarks](https://github.com/Thread-t/zephyr-fatfs-aflplusplus-benchmarks)** ★1 — AFL++ harnesses/benchmarks for Zephyr FatFs.  
   tags: `dataset, paper-repro`  
   smoke: AFL++.
-
-- **[HOEDUR (index)](https://github.com/search?q=HOEDUR+fuzz+firmware)** ★? — HOEDUR multi-stream firmware/RTOS fuzzer (index; canonical GH path noisy).  
-  tags: `paper-repro`  
-  smoke: INDEX ONLY — verify upstream URL before install notes.
 
 - **[RTCON (index)](https://doi.org/10.14722/ndss.2026.241600)** ★? — NDSS 2026 context-adaptive RTOS kernel function-level fuzzer (index stub).  
   tags: `paper-repro`  
